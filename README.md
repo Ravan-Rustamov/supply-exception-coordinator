@@ -26,3 +26,7 @@ open http://localhost:8003
 ## License
 
 MIT + Commercial Restrictions (see LICENSE)
+
+## ARCHIVED — 2026-09-30
+Stopped and removed from k8s-master (10.10.100.50). Replaced by the `dq-ai` project (AI Automated Cleaning).
+DB dump: /root/cleanup/backup/sec-db-2026-09-30.sql.gz (kept by Ravan Rustamov, not in git).
